@@ -296,8 +296,8 @@ date,accont,action,security,price,shares,commission,dollars
 10/9/2015,TSP Sue,Bought,S Fund,35.9780,7.2670,,261.45
 10/13/2015,TSP,Bought,S Fund,35.5150,5.4030,,191.89
 10/23/2015,TSP Sue,Bought,S Fund,35.9640,5.8160,,209.16
-10/26/2015,TSP,Sold,S Fund,35.8660,-425.1130,,"-6,081.53"
-10/26/2015,TSP Roth,Sold,S Fund,35.8660,-30.9740,,-858.77
+10/26/2015,TSP,Sold,S Fund,35.8659,-425.1129,,"-6,081.53"
+10/26/2015,TSP Roth,Sold,S Fund,35.8659,-30.9740,,-858.77
 10/27/2015,TSP,Bought,S Fund,35.5620,5.3960,,191.90
 11/6/2015,TSP Sue,Bought,S Fund,36.7840,5.6860,,209.16
 11/10/2015,TSP,Bought,S Fund,36.4990,5.2580,,191.90
